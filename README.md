@@ -1,4 +1,4 @@
-b# Advanced C++ Learning
+# Advanced C++ Learning
 
 ### 01 Datatypes
 
